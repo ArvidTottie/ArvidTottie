@@ -4,4 +4,6 @@
 - React.js and SQL Enthusiast
 
 *Don't hesitate to get in touch!*
+
+
 [LinkedIn](https://www.linkedin.com/in/arvid-tottie-218b68191/)
